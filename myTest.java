@@ -30,7 +30,6 @@ public class myTest
     
         
   }
-  
   public static int getData(int num1, int num2, int num3,int num4)
   {
     int total;
